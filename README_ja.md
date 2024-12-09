@@ -160,7 +160,7 @@ We built this as a prototype and may invest into it further based on level of in
 <!-- 
 We’d like to thank the team at WordPress.com who made this project possible: [Luis Felipe Zaguini](https://github.com/zaguiini), [Candy Tsai](https://github.com/candy02058912), [Autumn Fjeld](https://github.com/autumnfjeld), [Brian Coords](https://github.com/bacoords), [Daniel Bachhuber](https://github.com/danielbachhuber).
  -->
-このプロジェクトを可能にしてくれたWordPress.comのチームに感謝します: [Luis Felipe Zaguini](https://github.com/zaguiini)、[Candy Tsai](https://github.com/candy02058912)、[Autumn Fjeld](https://github.com/autumnfjeld)、[Brian Coords](https://github.com/bacoords)、[Daniel Bachhuber](https://github.com/danielbachhuber)。
+このプロジェクトを可能にしてくれた WordPress.com のチームに感謝します: [Luis Felipe Zaguini](https://github.com/zaguiini)、[Candy Tsai](https://github.com/candy02058912)、[Autumn Fjeld](https://github.com/autumnfjeld)、[Brian Coords](https://github.com/bacoords)、[Daniel Bachhuber](https://github.com/danielbachhuber)。
 
 <!-- 
 ## Stay in the Loop with WordPress.com
