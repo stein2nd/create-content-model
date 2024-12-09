@@ -11,7 +11,7 @@ _ブロックエディターで、カスタム投稿タイプとフィールド�
 <!-- 
 WordPress.com’s experimental Create Content Model plugin transforms the way custom post types and custom fields are created and managed in WordPress by making use of the latest core features to bring content modeling into the Block Editor. Additionally, the created data model and data entry UI can be exported as a standalone, maintenance-free plugin.
  -->
-WordPress.com の実験的な Create Content Model プラグインは、最新のコア機能を利用してブロックエディタにコンテンツモデリングを導入することで、WordPress でカスタム投稿タイプやカスタムフィールドを 作成・管理する方法を変革します。さらに、作成されたデータモデルとデータ入力 UI は、スタンドアロンでメンテナンスフリーのプラグインとしてエクスポートできます。
+WordPress.com の実験的な Create Content Model プラグインは、最新のコア機能を利用してブロックエディタにコンテンツモデリングを導入することで、WordPress でカスタム投稿タイプやカスタムフィールドを作成・管理する方法を変革します。さらに、作成されたデータモデルとデータ入力 UI は、スタンドアロンでメンテナンスフリーのプラグインとしてエクスポートできます。
 
 <!-- 
 [![Try in WordPress Playground](https://img.shields.io/badge/Try%20in%20WordPress%20Playground-blue?style=for-the-badge)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Automattic/create-content-model/trunk/blueprint.json)
